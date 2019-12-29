@@ -1,6 +1,2 @@
-/*!
- * Cbytes v1.0.0 (https://github.com/yonicb/cbytes)
- * Copyright 2019 The Cbytes Authors
- * Copyright 2019 Yoni Calsin <@yonicb>.
- * Licensed under MIT (https://github.com/yonicb/cbytes/blob/master/LICENSE)
- */
+"use strict";var hello=function(l){console.log("Hello "+l)};hello("Yoni Calsin");
+//# sourceMappingURL=index.js.map
