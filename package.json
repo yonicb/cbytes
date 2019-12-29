@@ -1,0 +1,34 @@
+{
+  "name": "cbytes",
+  "version": "1.0.0",
+  "description": "🎁 Utility to analyze a byte to byte chain and vice versa, unit converter ‍🌈",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonicb/cbytes.git"
+  },
+  "keywords": [
+    "bytes",
+    "file-units",
+    "unit",
+    "unit-converter",
+    "cbytes",
+    "byte",
+    "kilobyte",
+    "megabyte",
+    "gigabyte",
+    "terabyte",
+    "petabyte",
+    "exabyte",
+    "zettabyte",
+    "yottabyte"
+  ],
+  "author": "Yoni Calsin <helloyonicb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yonicb/cbytes/issues"
+  },
+  "homepage": "https://github.com/yonicb/cbytes#readme"
+}
