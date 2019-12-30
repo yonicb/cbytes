@@ -9,6 +9,7 @@ export interface Units {
 export interface Options extends More {
     decimals?: number;
     separator?: string;
+    everyThousand?: string;
 }
 export interface FormatToObjectReturn {
     unit: string | null | undefined;
