@@ -26,5 +26,5 @@ export declare function toNumber(val: string): number
 export declare function formatToObject(format: string): FormatToObjectReturn
 export declare function objectToFormat(obj: ObjectToFormat, options?: ObjectToFormatOptions): ObjectToFormatOptions
 export declare function sizeToObject(size: number): FormatToObjectReturn
-declare function cbytes(val: number | string, options?: Options): any
+export declare function cbytes(val: number | string, options?: Options): any
 export default cbytes;
