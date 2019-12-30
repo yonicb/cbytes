@@ -43,7 +43,7 @@ function message(cb, msg = `
 }
 gulp.task("clean", clean)
 gulp.task("default", function () {
-    return gulp.watch("src/index.ts", gulp.series(message, dev))
+    return gulp.watch('./**/*.ts', gulp.series(message, dev))
 })
 
 gulp.task("prod", gulp.series(build, clean, () => message(null, `
