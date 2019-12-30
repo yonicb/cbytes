@@ -1,7 +1,7 @@
 {
   "name": "cbytes",
   "version": "1.0.2",
-  "description": "🎁 Utility to analyze a byte to byte chain and vice versa, unit converter ‍🌈",
+  "description": "🎁 Utility to analyze a byte to unit chain and vice versa, unit converter ‍🌈",
   "main": "dist/src/index.js",
   "scripts": {
     "start": "gulp",
